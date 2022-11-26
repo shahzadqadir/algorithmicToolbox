@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PrimitiveCalculator
+comment1.params=number
+comment1.target=int\ counter(int)
+comment2.params=
+comment2.target=void\ test()
+numComments=3

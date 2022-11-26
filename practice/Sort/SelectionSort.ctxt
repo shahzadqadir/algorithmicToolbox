@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SelectionSort
+comment1.params=array\ from
+comment1.target=int\ getMinIndex(int[],\ int)
+comment2.params=array\ num1\ num2
+comment2.target=void\ swap(int[],\ int,\ int)
+comment3.params=array
+comment3.target=int[]\ sort(int[])
+comment4.params=
+comment4.target=void\ test()
+numComments=5

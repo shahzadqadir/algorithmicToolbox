@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LinearSearch
+comment1.params=strArray\ key\ ignorecase
+comment1.target=int\ searchString(java.lang.String[],\ java.lang.String,\ boolean)
+comment2.params=numbers\ key
+comment2.target=int\ binarySearch(int[],\ int)
+comment3.params=
+comment3.target=void\ testBinary()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
